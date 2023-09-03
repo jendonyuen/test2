@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "NodeJs 云函数断点调试",
+      "skipFiles": [
+        "<node_internals>/**",
+        "${workspaceFolder}/.ae/**",
+        "${workspaceFolder}/functions/nodejs//node_modules/**"
+      ],
+      "preLaunchTask": "PrepareDebugTask",
+      "program": "${workspaceFolder}/.ae/functionsFramework/nodejs/launch.js",
+      "env": {
+        "_LANE_NAME_": ""
+      }
+    }
+  ]
+}
