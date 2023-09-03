@@ -1,0 +1,17 @@
+{
+  "apiID": "github3__c__function_aade54zphrkda",
+  "apiName": "func2",
+  "label": {
+    "zh_CN": "func 2",
+    "en_US": "func 2"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
