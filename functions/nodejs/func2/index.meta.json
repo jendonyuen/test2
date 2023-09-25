@@ -1,0 +1,16 @@
+{
+  "apiID": "github16__c__function_aadfbpsmqkwc2",
+  "apiName": "func2",
+  "label": {
+    "zh_CN": "func2",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "func2",
+    "en_US": ""
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
