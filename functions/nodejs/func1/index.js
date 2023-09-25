@@ -10,7 +10,7 @@
  * @return 函数的返回数据
  */
 module.exports = async function (params, context, logger) {
-	// 日志功能abb
+	// 日志功能abbeef
 	logger.info(`${new Date()} 函数开始执行`);
 
 	// 在这里补充业务代码
